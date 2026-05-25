@@ -18,10 +18,3 @@ My work typically involves bridging the gap between machine learning and practic
 | **AI, MLOps & Vision** | OpenCV, PyTorch, LangChain, FastAPI, Prefect |
 | **Tools & DevOps** | Docker, Git, GitHub Actions, Hugging Face Spaces, pgAdmin4 |
 | **Fundamentals** | Design and Analysis of Algorithms (DAA), DBMS, OOP |
-
----
-
-### Contact & Connections
-
-* **GitHub** — [github.com/nishat-ahmad](https://github.com/nishat-ahmad)
-* **LinkedIn** — [linkedin.com/in/nishat-ahmad](https://www.linkedin.com/in/nishat-ahmad)
