@@ -12,11 +12,3 @@ My work typically involves bridging the gap between machine learning and practic
 ---
 
 ### Technical Focus
-
-**Languages** Python, C++, C, SQL, JavaScript, HTML, CSS, CUDA
-
-**AI, MLOps & Vision** OpenCV, PyTorch, LangChain, FastAPI, Prefect
-
-**Tools & DevOps** Docker, Git, GitHub Actions, Hugging Face Spaces, pgAdmin4
-
-**Fundamentals** Design and Analysis of Algorithms (DAA), Data structures and Algorithms (DSA) DBMS, OOP
