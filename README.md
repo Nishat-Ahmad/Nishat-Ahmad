@@ -1,7 +1,7 @@
 ```yaml
-nishat@lahore                                                           .       *       .
+nishat@Earth                                                            .       *       .
 -------------                                                       *
-OS: ............... AI/ML Developer & Backend Systems Engineer              /\      .
+OS: ............... AI/ML & DevOps Engineer                                 /\      .
 Host: ............. Lahore, PKT                                 .          /  \            *
 Kernel: ........... Ai & DevOps                                           /    \   /\
 Uptime: ........... Architecting robust CI/CD & AI services          /\  /      \ /  \
